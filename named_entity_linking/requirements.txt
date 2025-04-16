@@ -1,0 +1,9 @@
+numpy
+pandas
+tqdm
+pytorch_metric_learning
+scikit_learn
+SPARQLWrapper
+torch
+transformers
+faiss_cpu

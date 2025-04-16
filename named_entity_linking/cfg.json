@@ -1,0 +1,15 @@
+{
+    "path_queries": "queries.jsonl",
+    "path_kb": "knowledge_base.jsonl",
+    "output_folder": "",
+    "model_path": "GerMedBERT/medbert-512",
+    "learning_rate": 2e-5,
+    "batch_size": 64,
+    "epochs": 5,
+    "miner_margin": 0.2,
+    "type_of_triplets": "all",
+    "loss_alpha": 2,
+    "loss_beta": 50,
+    "loss_base": 0.5,
+    "seed": 31
+}
